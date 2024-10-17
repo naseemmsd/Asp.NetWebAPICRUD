@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Decoders\\AspCoreWebApi-- CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|e:\\decoders\\aspcorewebapi-- crud\\aspcorewebapi-- crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|solutionrelative:aspcorewebapi-- crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|e:\\decoders\\aspcorewebapi-- crud\\aspcorewebapi-- crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|solutionrelative:aspcorewebapi-- crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|e:\\decoders\\aspcorewebapi-- crud\\aspcorewebapi-- crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|solutionrelative:aspcorewebapi-- crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|e:\\decoders\\aspcorewebapi-- crud\\aspcorewebapi-- crud\\aspcorewebapi-- crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|solutionrelative:aspcorewebapi-- crud\\aspcorewebapi-- crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|e:\\decoders\\aspcorewebapi-- crud\\aspcorewebapi-- crud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|solutionrelative:aspcorewebapi-- crud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|e:\\decoders\\aspcorewebapi-- crud\\aspcorewebapi-- crud\\migrations\\20241015152850_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|solutionrelative:aspcorewebapi-- crud\\migrations\\20241015152850_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|e:\\decoders\\aspcorewebapi-- crud\\aspcorewebapi-- crud\\migrations\\20241014142625_codefirstaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|solutionrelative:aspcorewebapi-- crud\\migrations\\20241014142625_codefirstaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|e:\\decoders\\aspcorewebapi-- crud\\aspcorewebapi-- crud\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|solutionrelative:aspcorewebapi-- crud\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|e:\\decoders\\aspcorewebapi-- crud\\aspcorewebapi-- crud\\migrations\\20241014135709_codefirstcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D4ADB7-7C04-4B67-9C30-013388898BC8}|AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj|solutionrelative:aspcorewebapi-- crud\\migrations\\20241014135709_codefirstcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241015152850_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Migrations\\20241015152850_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AspCoreWebApi-- CRUD\\Migrations\\20241015152850_InitialCreate.cs",
+              "ToolTip": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Migrations\\20241015152850_InitialCreate.cs",
+              "RelativeToolTip": "AspCoreWebApi-- CRUD\\Migrations\\20241015152850_InitialCreate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:28:51.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AspCoreWebApi-- CRUD.csproj",
+              "DocumentMoniker": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj",
+              "RelativeDocumentMoniker": "AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj",
+              "ToolTip": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj",
+              "RelativeToolTip": "AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T14:07:17.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241014142625_CodeFirstAddClass.cs",
+              "DocumentMoniker": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Migrations\\20241014142625_CodeFirstAddClass.cs",
+              "RelativeDocumentMoniker": "AspCoreWebApi-- CRUD\\Migrations\\20241014142625_CodeFirstAddClass.cs",
+              "ToolTip": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Migrations\\20241014142625_CodeFirstAddClass.cs",
+              "RelativeToolTip": "AspCoreWebApi-- CRUD\\Migrations\\20241014142625_CodeFirstAddClass.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:26:26.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241014135709_CodeFirstCreateDB.cs",
+              "DocumentMoniker": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Migrations\\20241014135709_CodeFirstCreateDB.cs",
+              "RelativeDocumentMoniker": "AspCoreWebApi-- CRUD\\Migrations\\20241014135709_CodeFirstCreateDB.cs",
+              "ToolTip": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Migrations\\20241014135709_CodeFirstCreateDB.cs",
+              "RelativeToolTip": "AspCoreWebApi-- CRUD\\Migrations\\20241014135709_CodeFirstCreateDB.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:57:09.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "AspCoreWebApi-- CRUD\\Program.cs",
+              "ToolTip": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Program.cs",
+              "RelativeToolTip": "AspCoreWebApi-- CRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:30:37.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Models\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "AspCoreWebApi-- CRUD\\Models\\StudentDBContext.cs",
+              "ToolTip": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Models\\StudentDBContext.cs",
+              "RelativeToolTip": "AspCoreWebApi-- CRUD\\Models\\StudentDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:34:15.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AspCoreWebApi-- CRUD\\Models\\Student.cs",
+              "ToolTip": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Models\\Student.cs",
+              "RelativeToolTip": "AspCoreWebApi-- CRUD\\Models\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:26:39.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "AspCoreWebApi-- CRUD\\appsettings.json",
+              "ToolTip": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\appsettings.json",
+              "RelativeToolTip": "AspCoreWebApi-- CRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T15:31:12.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "AspCoreWebApi-- CRUD\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "E:\\Decoders\\AspCoreWebApi-- CRUD\\AspCoreWebApi-- CRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "AspCoreWebApi-- CRUD\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:59:04.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
